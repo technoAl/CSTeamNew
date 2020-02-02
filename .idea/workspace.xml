@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24d322cc-d76f-403c-8a77-e434af59d58f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/olympics.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maximumSumCombination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/olympics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADF.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADF.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ADF.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +23,29 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1V4yWk2GZkI9rbJcr1kMzQPrtGU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.olympics">
+  <component name="RunManager" selected="Application.ADF">
+    <configuration name="ADF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ADF" />
+      <module name="CSTeamNew" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="enclosure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="enclosure" />
       <module name="CSTeamNew" />
@@ -56,13 +67,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="partition" />
-      <module name="CSTeamNew" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="subarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="subarray" />
       <module name="CSTeamNew" />
@@ -72,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ADF" />
         <item itemvalue="Application.olympics" />
         <item itemvalue="Application.maximumSumCombination" />
         <item itemvalue="Application.enclosure" />
         <item itemvalue="Application.subarray" />
-        <item itemvalue="Application.partition" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +102,9 @@
       <workItem from="1580156080503" duration="146000" />
       <workItem from="1580156263111" duration="33000" />
       <workItem from="1580156422252" duration="80000" />
-      <workItem from="1580156716305" duration="2210000" />
+      <workItem from="1580156716305" duration="3235000" />
+      <workItem from="1580242531464" duration="12000" />
+      <workItem from="1580615742936" duration="3571000" />
     </task>
     <servers />
   </component>
@@ -118,6 +124,9 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580157231523">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -127,26 +136,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580157228550" />
-    <state width="1340" height="112" key="GridCell.Tab.0.bottom" timestamp="1580158958448">
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1580242541117">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="112" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580158958448" />
-    <state width="1340" height="112" key="GridCell.Tab.0.center" timestamp="1580158958447">
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580242541117" />
+    <state width="1877" height="205" key="GridCell.Tab.0.bottom" timestamp="1580619170718">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="112" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580158958447" />
-    <state width="1340" height="112" key="GridCell.Tab.0.left" timestamp="1580158958447">
+    <state width="1877" height="205" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580619170718" />
+    <state width="1877" height="205" key="GridCell.Tab.0.center" timestamp="1580619170718">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="112" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580158958447" />
-    <state width="1340" height="112" key="GridCell.Tab.0.right" timestamp="1580158958447">
+    <state width="1877" height="205" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580619170718" />
+    <state width="1877" height="205" key="GridCell.Tab.0.left" timestamp="1580619170718">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="112" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580158958447" />
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1580156716527">
+    <state width="1877" height="205" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580619170718" />
+    <state width="1877" height="205" key="GridCell.Tab.0.right" timestamp="1580619170718">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580156716527" />
+    <state width="1877" height="205" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580619170718" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1580242531815">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580242531815" />
     <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1580158785570">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
