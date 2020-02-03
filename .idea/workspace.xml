@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24d322cc-d76f-403c-8a77-e434af59d58f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ADF.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADF.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ADF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contours.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/football.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sumprime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADF.in" beforeDir="false" afterPath="$PROJECT_DIR$/ADF.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADF.out" beforeDir="false" afterPath="$PROJECT_DIR$/ADF.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSTeamNew/ADF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSTeamNew/ADF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ADF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ADF.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +38,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.ADF">
+  <component name="RunManager" selected="Application.sumprime">
     <configuration name="ADF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ADF" />
       <module name="CSTeamNew" />
@@ -46,15 +52,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="enclosure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enclosure" />
+    <configuration name="contours" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="contours" />
       <module name="CSTeamNew" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maximumSumCombination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maximumSumCombination" />
+    <configuration name="football" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="football" />
       <module name="CSTeamNew" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="subarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="subarray" />
+    <configuration name="sumprime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sumprime" />
       <module name="CSTeamNew" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sumprime" />
+        <item itemvalue="Application.football" />
+        <item itemvalue="Application.contours" />
         <item itemvalue="Application.ADF" />
         <item itemvalue="Application.olympics" />
-        <item itemvalue="Application.maximumSumCombination" />
-        <item itemvalue="Application.enclosure" />
-        <item itemvalue="Application.subarray" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +110,9 @@
       <workItem from="1580156422252" duration="80000" />
       <workItem from="1580156716305" duration="3235000" />
       <workItem from="1580242531464" duration="12000" />
-      <workItem from="1580615742936" duration="3571000" />
+      <workItem from="1580615742936" duration="4117000" />
+      <workItem from="1580756574314" duration="1387000" />
+      <workItem from="1580760668728" duration="3586000" />
     </task>
     <servers />
   </component>
@@ -140,29 +148,45 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580242541117" />
-    <state width="1877" height="205" key="GridCell.Tab.0.bottom" timestamp="1580619170718">
+    <state width="1877" height="205" key="GridCell.Tab.0.bottom" timestamp="1580764053102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="205" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580619170718" />
-    <state width="1877" height="205" key="GridCell.Tab.0.center" timestamp="1580619170718">
+    <state width="1877" height="205" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580764053102" />
+    <state width="1877" height="205" key="GridCell.Tab.0.center" timestamp="1580764053102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="205" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580619170718" />
-    <state width="1877" height="205" key="GridCell.Tab.0.left" timestamp="1580619170718">
+    <state width="1877" height="205" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580764053102" />
+    <state width="1877" height="205" key="GridCell.Tab.0.left" timestamp="1580764053101">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="205" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580619170718" />
-    <state width="1877" height="205" key="GridCell.Tab.0.right" timestamp="1580619170718">
+    <state width="1877" height="205" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580764053101" />
+    <state width="1877" height="205" key="GridCell.Tab.0.right" timestamp="1580764053102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="205" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580619170718" />
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1580242531815">
+    <state width="1877" height="205" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580764053102" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1580619862233">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580242531815" />
-    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1580158785570">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580619862233" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1580619862233">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580158785570" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580619862233" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1580619862233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580619862233" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1580619862233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580619862233" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1580760683978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580760683978" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1580756712733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580756712733" />
   </component>
 </project>

@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 
 public class ADF {
-
+    private static final String NAME = "Alex Sun";
     private static final String PROBLEM_NAME = "ADF";
     public static void main(String[] args) throws IOException{
         Scanner in = new Scanner(new File(PROBLEM_NAME + ".in"));
@@ -11,17 +11,22 @@ public class ADF {
             try{
                 String a = in.nextLine();
                 String b = in.nextLine();
-                a = a.replaceAll("\\s", "");
-                b = b.replaceAll("\\s", "");
                 a = a.toUpperCase();
                 b = b.toUpperCase();
                 for(int j = 0; j < a.length(); j++){
-                    if(){
-
+                    if(a.charAt(j) > 90 || a.charAt(j) < 65){
+                        a = a.replace(a.charAt(j), ' ');
                     }
                 }
-                //out.println(funcRun(a.toUpperCase(), b.toUpperCase()));
-                System.out.println(funcRun(,));
+                a = a.replaceAll("\\s", "");
+                b = b.replaceAll("\\s", "");
+                for(int j = 0; j < b.length(); j++){
+                    if(b.charAt(j) > 90 || b.charAt(j) < 65){
+                        b = b.replace(b.charAt(j), ' ');
+                    }
+                }
+                out.println(funcRun(a.toUpperCase(), b.toUpperCase()));
+                System.out.println(funcRun(a,b));
             } catch (Exception e){
                 e.printStackTrace();
             }
@@ -114,7 +119,7 @@ public class ADF {
                 six = "";
             }
         }
-        System.out.println(three + " " + five +  " " + four + " " + six);
+        //System.out.println(three + " " + five +  " " + four + " " + six);
         return max + funcRun(three, five) + funcRun(four, six);
     }
 }
