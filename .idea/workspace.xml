@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24d322cc-d76f-403c-8a77-e434af59d58f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/distinctpowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/split.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setMinusSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/speedUp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CSTeamNew/football.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSTeamNew/football.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/football.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/football.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSTeamNew/split.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSTeamNew/split.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,16 +43,9 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunManager" selected="Application.distinctpowers">
-    <configuration name="ADF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ADF" />
-      <module name="CSTeamNew" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="contours" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="contours" />
+  <component name="RunManager" selected="Application.setMinusSet">
+    <configuration name="bang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bang" />
       <module name="CSTeamNew" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,8 +58,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="football" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="football" />
+    <configuration name="setMinusSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="setMinusSet" />
+      <module name="CSTeamNew" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="speedUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="speedUp" />
       <module name="CSTeamNew" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.setMinusSet" />
+        <item itemvalue="Application.speedUp" />
+        <item itemvalue="Application.bang" />
         <item itemvalue="Application.distinctpowers" />
         <item itemvalue="Application.sumprime" />
-        <item itemvalue="Application.football" />
-        <item itemvalue="Application.contours" />
-        <item itemvalue="Application.ADF" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +114,11 @@
       <workItem from="1580760668728" duration="4684000" />
       <workItem from="1580833134303" duration="28000" />
       <workItem from="1581969697084" duration="1143000" />
-      <workItem from="1581970850187" duration="3389000" />
+      <workItem from="1581970850187" duration="3987000" />
+      <workItem from="1581977098887" duration="9000" />
+      <workItem from="1582575826643" duration="1281000" />
+      <workItem from="1582677365647" duration="21000" />
+      <workItem from="1583181202728" duration="1071000" />
     </task>
     <servers />
   </component>
@@ -155,38 +158,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580833159724" />
-    <state width="1877" height="205" key="GridCell.Tab.0.bottom" timestamp="1581973447193">
+    <state width="1877" height="251" key="GridCell.Tab.0.bottom" timestamp="1583182105118">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="251" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1581973642718">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="251" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1581973642718" />
-    <state width="1877" height="205" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581973447193" />
-    <state width="1877" height="205" key="GridCell.Tab.0.center" timestamp="1581973447193">
+    <state width="1877" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583182105118" />
+    <state width="1877" height="251" key="GridCell.Tab.0.center" timestamp="1583182105118">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="251" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1581973642718">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="251" key="GridCell.Tab.0.center.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1581973642718" />
-    <state width="1877" height="205" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581973447193" />
-    <state width="1877" height="205" key="GridCell.Tab.0.left" timestamp="1581973447193">
+    <state width="1877" height="251" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583182105118" />
+    <state width="1877" height="251" key="GridCell.Tab.0.left" timestamp="1583182105118">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="251" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1581973642718">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="251" key="GridCell.Tab.0.left.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1581973642718" />
-    <state width="1877" height="205" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581973447193" />
-    <state width="1877" height="205" key="GridCell.Tab.0.right" timestamp="1581973447193">
+    <state width="1877" height="251" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583182105118" />
+    <state width="1877" height="251" key="GridCell.Tab.0.right" timestamp="1583182105118">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="251" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1581973642718">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="251" key="GridCell.Tab.0.right.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1581973642718" />
-    <state width="1877" height="205" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581973447193" />
+    <state width="1877" height="251" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583182105118" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1580619862233">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -207,10 +210,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581973608811" />
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1581970850905">
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1582677365786">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581970850905" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582677365786" />
+    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582578243114">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582578243114" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1583181845078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583181845078" />
     <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1580756712733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
