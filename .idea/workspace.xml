@@ -2,8 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24d322cc-d76f-403c-8a77-e434af59d58f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RecursiveTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inputs/test1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inputs/test10.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inputs/test2.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inputs/test3.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inputs/test4.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inputs/test5.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inputs/test6.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inputs/test7.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inputs/test8.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inputs/test9.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dumplings.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dumplings.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/relprimes.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/relprimes.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APSample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Goats2024Problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Goats2024Problem5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem1_Format.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Veitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dumplingWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dumplings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/happy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/relprimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stonks.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stonks.out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSTeamNew/RecursiveTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSTeamNew/RecursiveTester.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,41 +65,46 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SSL_STEM/Pi Code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.RecursiveTester">
-    <configuration name="RecursiveTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursiveTester" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\techn\Github-Projects\CSTeamNew\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.happy">
+    <configuration name="Problem1_Format" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem1_Format" />
       <module name="CSTeamNew" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bang" />
+    <configuration name="clown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clown" />
       <module name="CSTeamNew" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="distinctpowers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="distinctpowers" />
+    <configuration name="dumplings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dumplings" />
       <module name="CSTeamNew" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="setMinusSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="setMinusSet" />
+    <configuration name="happy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="happy" />
       <module name="CSTeamNew" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="speedUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="speedUp" />
+    <configuration name="spring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spring" />
       <module name="CSTeamNew" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RecursiveTester" />
-        <item itemvalue="Application.setMinusSet" />
-        <item itemvalue="Application.speedUp" />
-        <item itemvalue="Application.bang" />
-        <item itemvalue="Application.distinctpowers" />
+        <item itemvalue="Application.happy" />
+        <item itemvalue="Application.Problem1_Format" />
+        <item itemvalue="Application.spring" />
+        <item itemvalue="Application.clown" />
+        <item itemvalue="Application.dumplings" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +150,28 @@
       <workItem from="1582575826643" duration="1281000" />
       <workItem from="1582677365647" duration="21000" />
       <workItem from="1583181202728" duration="1981000" />
-      <workItem from="1583245510194" duration="397000" />
+      <workItem from="1583245510194" duration="454000" />
+      <workItem from="1583469540810" duration="13000" />
+      <workItem from="1583780318626" duration="1494000" />
+      <workItem from="1585961651202" duration="550000" />
+      <workItem from="1586009782663" duration="1624000" />
+      <workItem from="1586192975402" duration="14000" />
+      <workItem from="1586451873116" duration="11000" />
+      <workItem from="1589570987818" duration="4147000" />
+      <workItem from="1593475424314" duration="38000" />
+      <workItem from="1593476044561" duration="40000" />
+      <workItem from="1593476096802" duration="186000" />
+      <workItem from="1594170694879" duration="163000" />
+      <workItem from="1594256223940" duration="1591000" />
+      <workItem from="1594258081531" duration="25000" />
+      <workItem from="1594325252406" duration="43000" />
+      <workItem from="1594325305441" duration="4385000" />
+      <workItem from="1594757668192" duration="477000" />
+      <workItem from="1595115501835" duration="2734000" />
+      <workItem from="1595124741666" duration="76000" />
+      <workItem from="1595174346207" duration="608000" />
+      <workItem from="1605124187887" duration="212000" />
+      <workItem from="1605125937172" duration="4419000" />
     </task>
     <servers />
   </component>
@@ -140,89 +195,25 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="179" key="#Java" timestamp="1581970735776">
+    <state width="1470" height="104" key="GridCell.Tab.0.bottom" timestamp="1605130974958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="179" key="#Java/0.0.1920.1040@0.0.1920.1040" timestamp="1581970735776" />
-    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580157231523">
+    <state width="1470" height="104" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605130974958" />
+    <state width="1470" height="104" key="GridCell.Tab.0.center" timestamp="1605130974958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580157231523" />
-    <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580157228550">
+    <state width="1470" height="104" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605130974958" />
+    <state width="1470" height="104" key="GridCell.Tab.0.left" timestamp="1605130974958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="689" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580157228550" />
-    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1580833159724">
+    <state width="1470" height="104" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605130974958" />
+    <state width="1470" height="104" key="GridCell.Tab.0.right" timestamp="1605130974958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580833159724" />
-    <state width="1877" height="251" key="GridCell.Tab.0.bottom" timestamp="1583245777472">
+    <state width="1470" height="104" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605130974958" />
+    <state x="786" y="388" key="com.intellij.ide.util.TipDialog" timestamp="1605125937704">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="251" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1581973642718">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="251" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1581973642718" />
-    <state width="1877" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583245777472" />
-    <state width="1877" height="251" key="GridCell.Tab.0.center" timestamp="1583245777471">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="251" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1581973642718">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="251" key="GridCell.Tab.0.center.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1581973642718" />
-    <state width="1877" height="251" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583245777471" />
-    <state width="1877" height="251" key="GridCell.Tab.0.left" timestamp="1583245777471">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="251" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1581973642718">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="251" key="GridCell.Tab.0.left.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1581973642718" />
-    <state width="1877" height="251" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583245777471" />
-    <state width="1877" height="251" key="GridCell.Tab.0.right" timestamp="1583245777472">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="251" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1581973642718">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="251" key="GridCell.Tab.0.right.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1581973642718" />
-    <state width="1877" height="251" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583245777472" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1580619862233">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580619862233" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1580619862233">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580619862233" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1580619862233">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580619862233" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1580619862233">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580619862233" />
-    <state x="461" y="163" key="SettingsEditor" timestamp="1581973608811">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581973608811" />
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1583245510021">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583245510021" />
-    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582578243114">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582578243114" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1583181845078">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583181845078" />
-    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1580756712733">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580756712733" />
+    <state x="786" y="388" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605125937704" />
   </component>
 </project>
