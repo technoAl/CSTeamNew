@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24d322cc-d76f-403c-8a77-e434af59d58f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/interfaceProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shuffle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
       <recent name="C:\Users\techn\Github-Projects\CSTeamNew\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.happy">
+  <component name="RunManager" selected="Application.Shuffle">
     <configuration name="Problem1_Format" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem1_Format" />
       <module name="CSTeamNew" />
@@ -53,15 +53,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="clown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clown" />
+    <configuration name="Shuffle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shuffle" />
       <module name="CSTeamNew" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dumplings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dumplings" />
+    <configuration name="clown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clown" />
       <module name="CSTeamNew" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Shuffle" />
         <item itemvalue="Application.happy" />
         <item itemvalue="Application.Problem1_Format" />
         <item itemvalue="Application.spring" />
         <item itemvalue="Application.clown" />
-        <item itemvalue="Application.dumplings" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +145,8 @@
       <workItem from="1605125937172" duration="4419000" />
       <workItem from="1605228868858" duration="238000" />
       <workItem from="1605229119757" duration="24000" />
-      <workItem from="1605231609674" duration="308000" />
+      <workItem from="1605231609674" duration="333000" />
+      <workItem from="1607544824114" duration="705000" />
     </task>
     <servers />
   </component>
@@ -173,22 +174,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="821" y="311" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605229140000" />
-    <state width="1470" height="104" key="GridCell.Tab.0.bottom" timestamp="1605130974958">
+    <state width="1877" height="120" key="GridCell.Tab.0.bottom" timestamp="1607545527978">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1470" height="104" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605130974958" />
-    <state width="1470" height="104" key="GridCell.Tab.0.center" timestamp="1605130974958">
+    <state width="1877" height="120" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607545527978" />
+    <state width="1877" height="120" key="GridCell.Tab.0.center" timestamp="1607545527978">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1470" height="104" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605130974958" />
-    <state width="1470" height="104" key="GridCell.Tab.0.left" timestamp="1605130974958">
+    <state width="1877" height="120" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607545527978" />
+    <state width="1877" height="120" key="GridCell.Tab.0.left" timestamp="1607545527978">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1470" height="104" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605130974958" />
-    <state width="1470" height="104" key="GridCell.Tab.0.right" timestamp="1605130974958">
+    <state width="1877" height="120" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607545527978" />
+    <state width="1877" height="120" key="GridCell.Tab.0.right" timestamp="1607545527978">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1470" height="104" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605130974958" />
+    <state width="1877" height="120" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607545527978" />
     <state x="786" y="388" key="com.intellij.ide.util.TipDialog" timestamp="1605229119549">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
